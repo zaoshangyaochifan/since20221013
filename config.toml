@@ -2,6 +2,10 @@ baseURL = 'https://zaoshangyaochifan.github.io/since20221013'
 title = 'Now Or Never'
 theme = 'hugo-book'
 
+defaultContentLanguage = 'zh'
+
+enableInlineShortcodes = true
+
 # (Optional) Set this to true if you use capital letters in file names
 disablePathToLower = true
 

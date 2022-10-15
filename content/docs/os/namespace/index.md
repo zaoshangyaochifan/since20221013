@@ -1,12 +1,10 @@
 ---
-title: "计算机网络"
+title: "Linux命名空间"
 weight: 1
-bookFlatSection: true
+# bookFlatSection: false
 # bookToc: true
 # bookHidden: false
 # bookCollapseSection: false
 # bookComments: false
 # bookSearchExclude: false
 ---
-
-# 计算机网络

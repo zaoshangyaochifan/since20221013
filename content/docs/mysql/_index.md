@@ -1,26 +1,12 @@
 ---
 title: "MySQL"
-weight: 1
-# bookFlatSection: false
+weight: 2
+bookFlatSection: true
 bookToc: true
-# bookHidden: false
-# bookCollapseSection: false
-# bookComments: false
-# bookSearchExclude: false
+bookHidden: false
+bookCollapseSection: false
+bookComments: true
+bookSearchExclude: false
 ---
 
-# Introduction
-
-## Ferre hinnitibus erat accipitrem dixi Troiae tollens
-
-Lorem markdownum, a quoque nutu est *quodcumque mandasset* veluti. Passim
-inportuna totidemque nympha fert; repetens pendent, poenarum guttura sed vacet
-non, mortali undas. Omnis pharetramque gramen portentificisque membris servatum
-novabis fallit de nubibus atque silvas mihi. **Dixit repetitaque Quid**; verrit
-longa; sententia [mandat](http://pastor-ad.io/questussilvas) quascumque nescio
-solebat [litore](http://lacrimas-ab.net/); noctes. *Hostem haerentem* circuit
-[plenaque tamen](http://www.sine.io/in).
-
-- Pedum ne indigenae finire invergens carpebat
-- Velit posses summoque
-- De fumos illa foret
+# MySQL
