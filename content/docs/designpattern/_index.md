@@ -10,3 +10,9 @@ bookToc: true
 ---
 
 # 设计模式
+
+## Kubernetes中的设计模式
+
+### 简单工厂模式-SimpleFactory
+
+### 
